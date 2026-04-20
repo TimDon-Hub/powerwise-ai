@@ -1,4 +1,4 @@
-# ⚡ PowerWise AI
+# PowerWise AI
 ### Smart Home Energy Management System
 
 > Built for the **SPE LASU Nexus 3.0 Hackathon 2026** — *Where Energy Meets Innovation*
@@ -21,11 +21,11 @@ These lead to unnecessary energy waste, higher bills, and difficulty planning ar
 
 PowerWise AI is a **smart home energy management system** that uses **simulation + machine learning** to help Nigerian households:
 
-- 🔌 Monitor and control household devices in real time
-- 🤖 Automatically shut off idle devices (AI-driven)
-- 📊 Visualise energy consumption per device and over time
-- 🔮 Predict how long prepaid units will last using ML
-- 💡 Receive personalised energy-saving recommendations
+- Monitor and control household devices in real time
+- Automatically shut off idle devices (AI-driven)
+- Visualise energy consumption per device and over time
+- Predict how long prepaid units will last using ML
+- Receive personalised energy-saving recommendations
 
 ---
 
