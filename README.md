@@ -1,10 +1,6 @@
 # PowerWise AI
 ### Smart Home Energy Management System
 
-> Built for the **SPE LASU Nexus 3.0 Hackathon 2026** — *Where Energy Meets Innovation*
-
----
-
 ## 📌 Problem Statement
 
 In Nigeria and across Africa, households face three critical electricity challenges:
@@ -141,7 +137,11 @@ The app will open automatically at `http://localhost:8501`
 
 ## 👥 Team
 
-Built by a team of Lagos State University engineering students for the SPE LASU Nexus 3.0 Conference 2026.
+Built by a team of Lagos State University engineering students:
+- (Timothy Donald)[https://linkedin.com/in/timdon369]
+- (Obedience Adara)[https://linkedin.com/in/obedienceadara]
+- (Ejikeme Victor)[https://linkedin.com/in/ejikemevictor]
+- Omgbrumaye Praise
 
 ---
 
