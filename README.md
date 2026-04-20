@@ -138,9 +138,9 @@ The app will open automatically at `http://localhost:8501`
 ## 👥 Team
 
 Built by a team of Lagos State University engineering students:
-- (Timothy Donald)[https://linkedin.com/in/timdon369]
-- (Obedience Adara)[https://linkedin.com/in/obedienceadara]
-- (Ejikeme Victor)[https://linkedin.com/in/ejikemevictor]
+- [Timothy Donald](https://linkedin.com/in/timdon369)
+- [Obedience Adara](https://linkedin.com/in/obedienceadara)
+- [Ejikeme Victor](https://linkedin.com/in/ejikemevictor)
 - Omgbrumaye Praise
 
 ---
