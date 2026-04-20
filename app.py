@@ -583,12 +583,3 @@ with tab4:
     for tip in tips:
         st.info(tip)
 
-# ═══════════════════════════════════════════════════════════════
-# FOOTER
-# ═══════════════════════════════════════════════════════════════
-st.divider()
-st.markdown(
-    '<div class="footer">PowerWise AI · Built for SPE LASU Nexus 3.0 Hackathon 2026 · '
-    "Where Energy Meets Innovation ⚡</div>",
-    unsafe_allow_html=True,
-)
