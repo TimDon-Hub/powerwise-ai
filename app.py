@@ -196,14 +196,6 @@ with st.sidebar:
     if st.button("🗑️ Clear Alerts", use_container_width=True):
         st.session_state.alerts = []
         st.rerun()
-
-    st.divider()
-    st.markdown(
-        '<div class="footer">SPE LASU · Nexus 3.0 · 2026</div>',
-        unsafe_allow_html=True,
-    )
-
-
 # ═══════════════════════════════════════════════════════════════
 # MAIN HEADER
 # ═══════════════════════════════════════════════════════════════
